@@ -1,0 +1,45 @@
+_repo: With-my-regiment-b-From-the-Aisne-to-La-Bassee_73692
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mills, Arthur
+    aliases:
+    - Mills, Arthur F. H.
+    - Mills, Arthur Frederick Hobart
+    - Mills, Arthur Hobart
+    - Platoon Commander
+    birthdate: 1887
+    deathdate: 1955
+    gutenberg_agent_id: '57170'
+    url: http://www.gutenberg.org/2009/agents/57170
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_F._H._Mills
+description: Reprinted in part from the English review, the Evening standard and the
+  Westminster gazette.
+gutenberg_issued: '2024-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73692'
+  lccn: '16002151'
+language: en
+pgterms:marc905: 20240211180133author
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Graeme Mackreth and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bWilliam Heinemann, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Soldiers' tales of the great war, 1
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+- !lcc 'D501'
+- GITenberg
+tableOfContents: Introduction -- Taking out a draft -- Railhead and beyond -- Early
+  days on the Aisne -- In billets -- The move up -- Nearing the firing-line -- Getting
+  into action -- An attack at dawn -- The reserve company -- A night attack -- The
+  farm in the firing-line -- Pushing foward -- In front of La Bassée -- A night patrol
+  -- With the supports -- Between actions -- "The --th brigade will attack ----" --
+  By the skin of our teeth -- "And thence to bed."
+title: 'With my regiment : $b From the Aisne to La Bassée'
+url: http://www.gutenberg.org/ebooks/73692
