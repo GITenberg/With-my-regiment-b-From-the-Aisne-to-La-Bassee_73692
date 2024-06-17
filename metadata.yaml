@@ -1,5 +1,8 @@
 _repo: With-my-regiment-b-From-the-Aisne-to-La-Bassee_73692
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73692-h/images/cover.jpg
 creator:
   author:
     agent_name: Mills, Arthur
@@ -15,6 +18,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Arthur_F._H._Mills
 description: Reprinted in part from the English review, the Evening standard and the
   Westminster gazette.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73692#With-my-regiment-b-From-the-Aisne-to-La-Bassee
 gutenberg_issued: '2024-05-25'
 gutenberg_type: Text
 identifiers:
